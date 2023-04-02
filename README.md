@@ -19,7 +19,7 @@ An interactive Quizzing App built in ReactJS and Golang
               go get -u -v golang.org/x/crypto/bcrypt
 ```
 
-## Featuress
+## Features
 * SignUp/Login for each user
 * Multiple genres of quizzes possible
 * SCQ and MCQ questions
